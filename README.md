@@ -8,4 +8,4 @@ I'm a fullstack software engineer, creating solutions through software since 201
 - :purple_heart: .Net Core, ReactJS, Node, React Native and Typescript
 - :books: studing about devops, docker, kubernets, cloud and micro services
 - :pushpin: São Paulo, Brazil   
-- 💬   get in touch with me: hi@wilsonneto.com.br / [linkedin](https://www.linkedin.com/in/wilsonnetobr/)
+- 💬   get in touch with me: hi@wilsonneto.com.br / [linkedin](https://www.linkedin.com/in/wilsonnetobr/) / [twitch](https://www.twitch.tv/wilsonnetodev) / [youtube](https://www.youtube.com/channel/UCBxjQXWVCyF1C5ft1E0foHw) / [instagram](https://www.instagram.com/wilsonneto.dev/) / [discord](https://discord.gg/Rp7AV5f9) / [newsletter](https://novidadesjs.substack.com/welcome)
