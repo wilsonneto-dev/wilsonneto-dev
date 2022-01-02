@@ -6,7 +6,7 @@ I'm a fullstack software engineer, creating solutions through software since 201
 
 - :rocket: `it's not about technology and code, it's about helping people and solving problems`
 - :purple_heart: .Net, JS/TS (Node.js, React.js, Next.js) and Azure
-- :books: studing about devops, docker, kubernets, cloud, architecture and micro services
+- :books: studying about devops, docker, kubernets, cloud, architecture and micro services
 - :pushpin: São Paulo, Brazil   
 
 💬 get in touch with me:<br />
