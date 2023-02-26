@@ -5,7 +5,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/wilsonnetobr/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/@wilsonneto-dev/videos"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a>
-    <a href="https://www.twitch.tv/wilsonnetodev"><img src="https://img.shields.io/badge/-Twitch-2D2B55?style=flat-square&logo=Twitch&logoColor=white"/></a>
 </p>
 
 I'm a fullstack software engineer, creating solutions through software since 2010. Passionate about solutions development, innovation, technology, marketing and learning something new every day<br />
