@@ -7,9 +7,9 @@
     <a href="https://www.youtube.com/@wilsonneto-dev/videos"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
 
-I'm a fullstack software engineer, creating solutions through software since 2010. Passionate about solutions development, innovation, technology, marketing and learning something new every day<br />
+I'm a full-stack software engineer, crafting software solutions since 2010. I have a passion for development, innovation, technology, marketing, and I strive to learn something new every day.<br />
 
-- :rocket: `it's not about technology and code, it's about helping people and solving problems`
-- :purple_heart: Software Engineering and Architecture, .Net, JS/TS (Node.js, React.js, Next.js) and Azure
-- :books: Longlife learner
-- :pushpin: São Paulo, Brazil   
+- :rocket: `I believe it's not just about technology and code, but more importantly, it's about helping people and solving problems`
+- :purple_heart: My expertise lies in Software Engineering and Architecture, .Net, JS/TS (Node.js, React.js, Next.js), and Azure
+- :books: Lifelong learner
+- :pushpin: Based in São Paulo, Brazil
