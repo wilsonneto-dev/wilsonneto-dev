@@ -10,6 +10,6 @@
 I'm a full-stack software engineer, crafting software solutions since 2010. I have a passion for development, innovation, technology, marketing, and I strive to learn something new every day.<br />
 
 - :rocket: `it's not just about technology and code, but more importantly, it's about helping people and solving problems`
-- :purple_heart: My expertise lies in Software Engineering and Architecture, .Net, JS/TS (Node.js, React.js, Next.js), Python and Azure
+- :purple_heart: My expertise lies in Software Engineering and Architecture, mainly on backend, APIs and cloud
 - :books: Lifelong learner
 - :pushpin: Based in São Paulo, Brazil
