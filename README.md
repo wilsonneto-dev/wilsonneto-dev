@@ -1,4 +1,4 @@
-# Hi! I'm [Wilson Neto](https://linktr.ee/wilsonnetodev) 👋
+# Hi! I'm [Wilson Neto](https://www.linkedin.com/in/wilsonnetobr/) 👋
 
 ![capa](https://user-images.githubusercontent.com/20674439/216845327-fbac673a-2879-4d81-a3c8-7377080674b9.jpg)
 
