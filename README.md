@@ -5,6 +5,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/wilsonnetobr/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/@wilsonneto-dev/videos"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a>
+    <a href="https://wilsonneto-dev.github.io/Resume/"><img src="https://img.shields.io/badge/-Resume-2D2B55?style=flat-square&logoColor=white"/></a>
 </p>
 
 I'm a software engineer, crafting software solutions since 2010. I have a passion for development, innovation, technology, marketing, and I strive to learn something new every day.<br />
