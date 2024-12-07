@@ -8,9 +8,9 @@
     <a href="https://wilsonneto-dev.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/-Resume-2D2B55?style=flat-square&logoColor=white"/></a>
 </p>
 
-I'm a software engineer, crafting software solutions since 2010. I have a passion for development, innovation, technology, marketing, and I strive to learn something new every day.<br />
+I'm a software engineer, crafting software solutions since 2010. I have a passion for development, innovation, and technology; I strive to learn something new every day.<br />
 
-- :rocket: `it's not just about technology and code, but more importantly, it's about helping people and solving problems`
-- :purple_heart: My expertise lies in Software Engineering and Architecture, mainly on backend, APIs and cloud
+- :rocket: `It's not just about technology and code, but more importantly, it's about helping people`
+- :purple_heart: My expertise lies in Software Engineering and System Design, mainly on the backend, APIs and cloud
 - :books: Lifelong learner
 - :pushpin: Based in São Paulo, Brazil
