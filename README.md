@@ -1,4 +1,4 @@
-# Hi there, I'm [Wilson Neto](https://www.linkedin.com/in/wilsonnetobr/)! 👋
+# Hi there, I'm [Wilson Neto](https://www.linkedin.com/in/wilsonnetobr/) 👋
 
 ![Capa Git](./cover.png)
 
